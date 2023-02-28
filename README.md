@@ -32,9 +32,9 @@ To use FitFat, simply navigate to the app's URL in your web browser.
 
 FitFat offers the following features:
 
-View detailed information about each gym and session, including trainer information.
-Book sessions and view your upcoming bookings. (coming soon)
-View your profile and update your account information.
+1) View detailed information about each gym and session, including trainer information.
+2) Book sessions and view your upcoming bookings. (coming soon)
+3) View your profile and update your account information.
 
 
 ### License
